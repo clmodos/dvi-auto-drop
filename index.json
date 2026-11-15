@@ -1,0 +1,14 @@
+{
+  "base": "https://raw.githubusercontent.com/clmodos/dvi-auto-drop/main",
+  "generatedAt": "2026-11-15T09:18:16.177Z",
+  "scripts": [
+    {
+      "slug": "dvi-auto-drop",
+      "name": "[DVI]自动丢弃资源",
+      "version": "0.1.2",
+      "description": "只丢掉背包里指定稀有度的资源（矿石、木材、鱼、金属锭、作物），装备、贵重品、药水、食物永不触碰；默认试运行。",
+      "downloadURL": "https://raw.githubusercontent.com/clmodos/dvi-auto-drop/main/dvi-auto-drop.user.js",
+      "updateURL": "https://raw.githubusercontent.com/clmodos/dvi-auto-drop/main/dvi-auto-drop.meta.js"
+    }
+  ]
+}
